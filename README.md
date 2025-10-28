@@ -33,7 +33,7 @@ Use ethenet cable to connect RJ45 breakout board to companion computer's etherne
 
 ## Flashing Custom Ardupilot 4.7.0 dev
 
-Open the ArduPilot Custom Build [Server](https://custom.ardupilot.org/add_build) and select the options exactly as shown in Image 1, then submit the build.For Flashing custom Tutotial follow this [link](https://ardupilot.org/planner/docs/common-loading-firmware-onto-pixhawk.html)
+Open the ArduPilot Custom Build [Server](https://custom.ardupilot.org/add_build) and select the options exactly as shown in [Image 1](https://github.com/Shreyashkinhikar/ros2-ardupilot-ethernet-guide/blob/main/Image%201.png), then submit the build.For Flashing custom Tutotial follow this [link](https://ardupilot.org/planner/docs/common-loading-firmware-onto-pixhawk.html)
 
 
 
