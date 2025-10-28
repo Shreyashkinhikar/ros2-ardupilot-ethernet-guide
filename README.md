@@ -125,7 +125,7 @@ Follow the steps given
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Terminal](https://github.com/Shreyashkinhikar/ros2-ardupilot-ethernet-guide/blob/main/DEMO.png)
 
 
 ## Debugging: Verify eth0 IP & Match DDS Params (with expected output)
